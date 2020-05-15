@@ -1,0 +1,1 @@
+It is a notepad. I have create it using tkinter.
